@@ -1,0 +1,17 @@
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\bin\Debug\net7.0\RabbitSender.exe
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\bin\Debug\net7.0\RabbitSender.deps.json
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\bin\Debug\net7.0\RabbitSender.runtimeconfig.json
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\bin\Debug\net7.0\RabbitSender.dll
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\bin\Debug\net7.0\RabbitSender.pdb
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.csproj.AssemblyReference.cache
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.AssemblyInfoInputs.cache
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.AssemblyInfo.cs
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.csproj.CoreCompileInputs.cache
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.csproj.CopyComplete
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.dll
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\refint\RabbitSender.dll
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.pdb
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\RabbitSender.genruntimeconfig.cache
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitSender\obj\Debug\net7.0\ref\RabbitSender.dll

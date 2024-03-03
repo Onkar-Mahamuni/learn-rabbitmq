@@ -1,0 +1,17 @@
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\bin\Debug\net7.0\RabbitReceiver1.exe
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\bin\Debug\net7.0\RabbitReceiver1.deps.json
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\bin\Debug\net7.0\RabbitReceiver1.runtimeconfig.json
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\bin\Debug\net7.0\RabbitReceiver1.dll
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\bin\Debug\net7.0\RabbitReceiver1.pdb
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\obj\Debug\net7.0\RabbitReceiver1.csproj.AssemblyReference.cache
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\obj\Debug\net7.0\RabbitReceiver1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\obj\Debug\net7.0\RabbitReceiver1.AssemblyInfoInputs.cache
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\obj\Debug\net7.0\RabbitReceiver1.AssemblyInfo.cs
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\obj\Debug\net7.0\RabbitReceiver1.csproj.CoreCompileInputs.cache
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\obj\Debug\net7.0\RabbitReceiver1.csproj.CopyComplete
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\obj\Debug\net7.0\RabbitReceiver1.dll
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\obj\Debug\net7.0\refint\RabbitReceiver1.dll
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\obj\Debug\net7.0\RabbitReceiver1.pdb
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\obj\Debug\net7.0\RabbitReceiver1.genruntimeconfig.cache
+E:\Work\WoltersWorkPractice\GitHub-Repo\learn-rabbitmq\RabbitMQDemo\RabbitReceiver1\obj\Debug\net7.0\ref\RabbitReceiver1.dll
